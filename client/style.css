@@ -47,14 +47,14 @@ body {
 .wrapper {
   width: 100%;
   padding: 15px;
-  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.2), -10px -10px 20px rgba(255, 255, 255, 0.5);
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.2), -10px -10px 20px rgba(231, 208, 208, 0.5);
 
 
 }
 
 .ai {
   background: #262837;
-  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.2), -10px -10px 20px rgb(236, 180, 180);
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.2), -10px -10px 20px rgb(249, 171, 171);
 
 }
 
@@ -71,7 +71,7 @@ body {
 }
 
 .profile {
-  
+
   width: 60px;
   height: 60px;
   border-radius: 5px;
@@ -79,7 +79,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  
+
 }
 
 
@@ -89,7 +89,7 @@ body {
   height: 100%;
   border-radius: 10px;
   object-fit: contain;
-  
+
 }
 
 .message {
@@ -101,7 +101,7 @@ body {
   overflow-x: scroll;
   overflow: hidden;
 
-  white-space: pre-wrap; 
+  white-space: pre-wrap;
 
   -ms-overflow-style: none;
   scrollbar-width: none;
@@ -145,4 +145,19 @@ button {
 form img {
   width: 30px;
   height: 30px;
+}
+
+
+footer {
+  background-color: #070606;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+  color: #fefdfd;
+}
+
+.container img {
+  max-width: 60px;
+  margin: 0 auto;
 }

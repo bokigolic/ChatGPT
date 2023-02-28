@@ -11,7 +11,7 @@ responses to natural language input. It can be used as a conversational tool in 
 such as customer service, virtual assistants, and chatbots.
 
 ### Screenshot
-<img width="931" alt="Screenshot 2022-08-31 230954" src="">
+<img width="931" alt="Screenshot 2022-08-31 230954" src="https://github.com/bokigolic/portfolio/blob/main/public/images/7.png">
 
 ### Live Preview
 You can try out the chatbot [LIVE](https://open-ai-bokigolic.vercel.app/)
